@@ -1,0 +1,61 @@
+{
+  "products": {
+    "2": {
+      "id": "2",
+      "name": "Books & Novels",
+      "description": "just arabic novels and few english ones"
+    },
+    "3": {
+      "id": "3",
+      "name": "Laptop",
+      "price": 17000,
+      "categoryId": "3"
+    },
+    "11": {
+      "id": "11",
+      "name": "Canon",
+      "price": 20000,
+      "categoryId": "4"
+    },
+    "Sun Mar 17 2019 21:52:09 GMT+0200 (Egypt Standard Time)": {
+      "name": "The Fault in Our Stars",
+      "price": 170,
+      "categoryId": "2",
+      "id": "Sun Mar 17 2019 21:52:09 GMT+0200 (Egypt Standard Time)"
+    },
+    "Sun Mar 17 2019 21:54:03 GMT+0200 (Egypt Standard Time)": {
+      "name": "Samsung S7",
+      "price": 7000,
+      "categoryId": "1",
+      "id": "Sun Mar 17 2019 21:54:03 GMT+0200 (Egypt Standard Time)"
+    },
+    "Tue Mar 19 2019 14:26:43 GMT+0200 (Egypt Standard Time)": {
+      "name": "Samsung S7",
+      "price": 7000,
+      "categoryId": "1",
+      "id": "Tue Mar 19 2019 14:26:43 GMT+0200 (Egypt Standard Time)"
+    }
+  },
+  "categories": {
+    "1": {
+      "id": "1",
+      "name": "Mobiles",
+      "description": "all brands of mobile phones"
+    },
+    "2": {
+      "id": "2",
+      "name": "Books & Novels",
+      "description": "just arabic novels and few english ones"
+    },
+    "3": {
+      "id": "3",
+      "name": "Computers",
+      "description": "laptops only with high specifications"
+    },
+    "4": {
+      "id": "4",
+      "name": "Electronics",
+      "description": "televisions, cameras and recorders"
+    }
+  }
+}
